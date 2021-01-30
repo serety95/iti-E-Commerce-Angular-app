@@ -1,3 +1,6 @@
+## deployment
+check the deployment at https://mean-ecommerce-serety.netlify.app/
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
@@ -26,5 +29,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## deployment
-check the deployment at https://mean-ecommerce-serety.netlify.app/
